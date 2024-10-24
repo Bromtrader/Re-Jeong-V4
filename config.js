@@ -7,9 +7,9 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "27623649420" //masukin no lu
+global.owner = "27692988143" //masukin no lu
 global.namabot = "Re-Jeong V4"
-global.nomorbot = "27623649420" //masukin no lu
+global.nomorbot = "27692988143" //masukin no lu
 global.namaCreator = "Re-Jeong "
 global.linkyt = "-"
 global.autoJoin = false
@@ -32,7 +32,7 @@ global.location = '1'
 
 global.codeInvite = ""
 global.imageurl = 'https://telegra.ph/file/019207dd7bf306d343b7e.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h'
+global.isLink = ''
 global.packname = "Re-Jeong"
 global.author = "Re-Jeong"
 global.jumlah = "5"
